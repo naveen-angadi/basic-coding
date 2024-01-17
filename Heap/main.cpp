@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Array" << endl;
+    cout << "Heap" << endl;
     return 0;
 }

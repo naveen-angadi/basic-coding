@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Array" << endl;
+    cout << "Disjoint" << endl;
     return 0;
 }

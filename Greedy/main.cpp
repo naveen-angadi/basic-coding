@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Array" << endl;
+    cout << "Greedy" << endl;
     return 0;
 }

@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Array" << endl;
+    cout << "Segment and Binary Indexed" << endl;
     return 0;
 }
